@@ -1,4 +1,4 @@
-## Hi there 👋
+## olá!, sou novato
 
 <!--
 **gui444456/gui444456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
